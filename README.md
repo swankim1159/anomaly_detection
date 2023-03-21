@@ -1,2 +1,2 @@
-# cat_classification_modeling
+# Anomaly detection
 weekly assignment in Coursera
