@@ -28,6 +28,9 @@
  ```bash
  pytest -q
  ```
+
+## Data
+Sample training and validation datasets are stored in `data/` and are loaded by `utils.py`.
  
  ## License
  This project is released under the MIT License. See `LICENSE` for details.
